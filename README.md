@@ -6,12 +6,10 @@ Taking AWS CDK with Lambda for a spin!
 
 Looking to build with aws-cdk the following.
 
--   [ ] lambda app
+-   [ ] lambda app with code from bucket
 -   [ ] code pipeline
     -   [ ] source: codecommit
     -   [ ] build: upload artifact to s3
-    -   [ ] deploy: cloudformation create or replace changeset
-    -   [ ] deploy: cloudformation execute changeset
 
 ## usage
 
@@ -35,4 +33,5 @@ npm run cdk destroy
 
 ## references
 
+-   [aws cdk lambda readme](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-lambda-readme.html)
 -   [Building a continuous delivery pipeline for a Lambda application with AWS CodePipeline](https://docs.aws.amazon.com/lambda/latest/dg/build-pipeline.html)
