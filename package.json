@@ -28,6 +28,8 @@
         "typescript": "^4.0.2"
     },
     "dependencies": {
+        "@aws-cdk/aws-codepipeline": "^1.60.0",
+        "@aws-cdk/aws-codepipeline-actions": "^1.60.0",
         "@aws-cdk/aws-lambda": "^1.60.0",
         "@aws-cdk/core": "^1.60.0",
         "aws-cdk": "^1.60.0",
