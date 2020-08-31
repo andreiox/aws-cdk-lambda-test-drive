@@ -6,7 +6,7 @@ Taking AWS CDK with Lambda for a spin!
 
 Looking to build with aws-cdk the following.
 
--   [ ] lambda app with code from bucket
+-   [x] lambda app with code from bucket
 -   [ ] code pipeline
     -   [ ] source: codecommit
     -   [ ] build: upload artifact to s3
